@@ -1,7 +1,7 @@
 # Shop App
-<p class='text'>Android (Only) Shop App made with flutter + firebase api without firebase package including Authentication systeme.</p>
+<p style='font-weight:bold; font-size:18px; margin:50px'>Android (Only) Shop App made with flutter + firebase api without firebase package including Authentication systeme.</p>
 
-<div class='logos'>
+<div style='margin:100px'>
 <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png' width='300px'>
 
 

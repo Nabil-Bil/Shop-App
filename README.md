@@ -1,5 +1,6 @@
 # Shop App
-<p>Android (Only) Shop App made with flutter + firebase api without firebase package including Authentication systeme.</p>
+<p align="center">
+  <p>Android (Only) Shop App made with flutter + firebase api without firebase package including Authentication systeme.</p>
 
 <div >
 <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png' width='300px'>
@@ -18,5 +19,7 @@
 <img src="./screenshots/Screenshot%206.png" width="190">
 <img src="./screenshots/Screenshot%207.png" width="190">
 <img src="./screenshots/Screenshot%208.png" width="190">
+
+</p>
 
 </p>

@@ -20,21 +20,3 @@
 <img src="./screenshots/Screenshot%208.png" width="190">
 </p>
 
-<style>
-.text{
-    font-size:18px;font-weight:bold; margin:20px;
-}
-
-.logos{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    
-    padding:100px
-
-}
-
-
-
-
-</style>

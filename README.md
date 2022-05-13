@@ -9,7 +9,7 @@
 </div>
 
 
-
+<p>
 <img src="./screenshots/Screenshot%201.png" width="190">
 <img src="./screenshots/Screenshot 2.png"   width="190">
 <img src="./screenshots/Screenshot%203.png" width="190">
@@ -19,4 +19,4 @@
 <img src="./screenshots/Screenshot%207.png" width="190">
 <img src="./screenshots/Screenshot%208.png" width="190">
 
-
+</p>
